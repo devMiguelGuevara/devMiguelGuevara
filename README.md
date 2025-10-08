@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola! Soy Miguel Guevara Ávila</h1>
 
-<!--
-**devMiguelGuevara/devMiguelGuevara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desarrollador <strong>.NET | JS | Fullstack</strong> <br/>
+  📍 Colombia | 💼 SENA | 🌱 Aprendiendo constantemente
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,react,nodejs,git,github,docker,azure,postgresql,vscode,visualstudio" />
+</p>
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devMiguelGuevara&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMiguelGuevara&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🧠 Últimos proyectos
+
+- 🔹 [DFP desarrollo front](https://github.com/desarrolloSENAfv/DFP_desarrollo_front)
+- 🔹 [DFP desarrollo back](https://github.com/desarrolloSENAfv/DFP_desarrollo_back)
+
+---
+
+### 🧩 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguelguevaraavila"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+  <a href="mailto:miguel.guevara@example.com"><img src="https://img.shields.io/badge/Correo-EA4335?logo=gmail&logoColor=white" /></a>
+</p>
