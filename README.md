@@ -9,7 +9,7 @@
 
 ---
 
-## 🌌 Universe contributions
+## 🌌 Contribution Universe / Universo de Contribuciones
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devMiguelGuevara&theme=react-dark&hide_border=true&area=true&area_color=00b3ff&color=00ffc3&line=00ffc3&point=ffffff" alt="Contribution Graph"/>
