@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel Guevara Avila</h1>
-<h3 align="center">A passionate Fullstack Developer from Colombia</h3>
+<h3 align="center">Strategic Fullstack Engineer | Driving Business ROI through Scalable Solutions</h3>
+<h4 align="center">Ingeniero Fullstack colombiano enfocado en la estrategia y ejecución de soluciones tecnológicas de alto valor. Transformo ideas innovadoras en productos sólidos, garantizando que la inversión en tecnología impulse un crecimiento tangible y sostenible para la empresa.</h4>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devMiguelGuevara&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -7,7 +9,7 @@
 
 ---
 
-## 🌌 My Contribution Universe
+## 🌌 Universe contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devMiguelGuevara&theme=react-dark&hide_border=true&area=true&area_color=00b3ff&color=00ffc3&line=00ffc3&point=ffffff" alt="Contribution Graph"/>
@@ -19,7 +21,8 @@
 
 ---
 
-## 🚀 Últimos Proyectos
+## 🚀 Last Projects / Últimos Proyectos
+
 
 <table align="center">
   <tr>
@@ -61,7 +64,7 @@
 </table>
 ---
 
-## 🧩 Lenguajes y Herramientas
+## 🧩 Languages and Tools / Lenguajes y Herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,nextjs,laravel,codeigniter,symfony,nodejs,python,django,php,js,ts,java,dotnet,cs,postgresql,mysql,mongodb,sqlite,nginx,docker,linux,git,github,azure,vscode,visualstudio,figma,ai,ps,xd" />
@@ -69,7 +72,7 @@
 
 ---
 
-## 🤝 Colaboraciones y Reconocimientos
+## 🤝 Collaborations & Recognitions / Colaboraciones y Reconocimientos
 
 - **Colaboración activa** en proyectos institucionales del SENA  
 - **Desarrollo integral** de arquitecturas fullstack en múltiples entornos  
