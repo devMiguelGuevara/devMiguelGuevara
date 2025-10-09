@@ -21,28 +21,44 @@
 
 ## 🚀 Últimos Proyectos
 
-### SVP
-- **FRONT:** React / Next.js  
-- **BACK:** Laravel  
-
-### SENAVANCE
-- **FRONT - BACK:** Stack igual a SVP  
-
-### SAVA
-- **Tecnología:** CodeIgniter (Monolito)  
-
-### ADMIN COMUNIDADES
-- **BACK:** Symfony  
-
-### FRONT COMUNIDADES
-- **FRONT:** Angular  
-
-### SENA REPORTES
-- **Stack:** Python / Django  
-
-### SENA CORREOS
-- **Stack:** Node.js  
-
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>SVP</b><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,mysql" />
+    </td>
+    <td align="center" width="50%">
+      <b>SENAVANCE</b><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,mysql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>SAVA</b><br/>
+      <img src="https://skillicons.dev/icons?i=php,codeigniter,mysql" />
+    </td>
+    <td align="center">
+      <b>ADMIN COMUNIDADES</b><br/>
+      <img src="https://skillicons.dev/icons?i=symfony,php,mysql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>FRONT COMUNIDADES</b><br/>
+      <img src="https://skillicons.dev/icons?i=angular,ts,html,css" />
+    </td>
+    <td align="center">
+      <b>SENA REPORTES</b><br/>
+      <img src="https://skillicons.dev/icons?i=python,django,postgresql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <b>SENA CORREOS</b><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,js,postgresql" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🧩 Lenguajes y Herramientas
