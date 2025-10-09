@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devMiguelGuevara&theme=react-dark&hide_border=true&area=true&area_color=00b3ff&color=00ffc3&line=00ffc3&point=ffffff" alt="Contribution Graph"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=devMiguelGuevara&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=devMiguelGuevara&theme=tokyonight&hide_border=false&card_height=200&border_radius=10" alt="GitHub Streak Stats"/>
   <br/><br/>
   <img src="https://github.com/devMiguelGuevara/devMiguelGuevara/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
