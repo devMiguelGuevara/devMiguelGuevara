@@ -19,6 +19,9 @@
   <img src="https://github.com/devMiguelGuevara/devMiguelGuevara/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
+> 🧠 Over 5 years of experience with +2000 private commits in institutional projects.  
+> 🧠 Más de 5 años de experiencia con +2000 commits privados en proyectos institucionales.
+
 ---
 
 ## 🚀 Last Projects / Últimos Proyectos
