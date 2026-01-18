@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel Guevara Avila</h1>
-<h3 align="center">Strategic Fullstack Engineer | Driving Business ROI through Scalable Solutions</h3>
-<h4 align="center">Ingeniero Fullstack colombiano enfocado en la estrategia y ejecución de soluciones tecnológicas de alto valor. Transformo ideas innovadoras en productos sólidos, garantizando que la inversión en tecnología impulse un crecimiento tangible y sostenible para la empresa.</h4>
+<h3 align="center">Senior Software Engineer & Technical Lead</h3>
+<h4 align="center">Ingeniero senior con 15+ años especializándome en rescate y modernización de sistemas críticos para sector público, educación y salud. Combino liderazgo técnico, arquitectura de soluciones escalables y análisis de datos para toma de decisiones estratégicas.</h4>
 
 
 <p align="center">
@@ -19,8 +19,9 @@
   <img src="https://github.com/devMiguelGuevara/devMiguelGuevara/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
-> 🧠 Over 5 years of experience with +2000 private commits in institutional projects.  
-> 🧠 Más de 5 años de experiencia con +2000 commits privados en proyectos institucionales.
+> 🧠 15+ years of experience | 5,000+ commits across institutional projects  
+> 🎯 Tech Lead on 3 critical systems (2023-2025) | Serving 100k+ users  
+> 🏛️ Specialized in public sector, education, and health systems
 
 ---
 
@@ -30,38 +31,30 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <b>SVP</b><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,mysql" />
+      <b>SVP (Sistema Vigilancia Programas) - 2025</b><br/>
+      <em>Tech Lead</em><br/>
+      <img src="https://skillicons.dev/icons?i=laravel,react,php,mysql,oracle" />
+      <br/><small>Architecture design & deployment coordination</small>
     </td>
     <td align="center" width="50%">
-      <b>SENAVANCE</b><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,mysql" />
+      <b>Comunidades SIEFV - 2024</b><br/>
+      <em>Tech Lead</em><br/>
+      <img src="https://skillicons.dev/icons?i=django,python,nodejs,symfony,angular" />
+      <br/><small>Information and communication platform for SENA learning communities</small>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>SAVA</b><br/>
-      <img src="https://skillicons.dev/icons?i=php,codeigniter,mysql" />
+      <b>SAVA - 2023</b><br/>
+      <em>Software Engineer</em><br/>
+      <img src="https://skillicons.dev/icons?i=php,codeigniter,mysql,sqlite" />
+      <br/><small>Virtual learning environment support</small>
     </td>
     <td align="center">
-      <b>ADMIN COMUNIDADES</b><br/>
-      <img src="https://skillicons.dev/icons?i=symfony,php,mysql" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>FRONT COMUNIDADES</b><br/>
-      <img src="https://skillicons.dev/icons?i=angular,ts,html,css" />
-    </td>
-    <td align="center">
-      <b>SENA REPORTES</b><br/>
-      <img src="https://skillicons.dev/icons?i=python,django,postgresql" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <b>SENA CORREOS</b><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,js,postgresql" />
+      <b>PAI Bogotá - 2020-2021</b><br/>
+      <em>Fullstack Developer</em><br/>
+      <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,sqlserver" />
+      <br/><small>Immunization system (COVID-19)</small>
     </td>
   </tr>
 </table>
@@ -75,12 +68,14 @@
 
 ---
 
-## 🤝 Collaborations & Recognitions / Colaboraciones y Reconocimientos
+## 🤝 Key Achievements / Highlights
 
-- **Colaboración activa** en proyectos institucionales del SENA  
-- **Desarrollo integral** de arquitecturas fullstack en múltiples entornos  
-- **Soporte técnico y evolutivo** en plataformas de análisis y comunicación  
-- **Mejoras continuas** en la integración y estandarización de módulos internos  
+✅ **Tech Lead** on 3 critical institutional systems (2023-2025)  
+✅ Rescued and modernized **legacy systems** serving **100k+ users**  
+✅ Designed architectures for **public health** and **education** platforms  
+✅ **International remote experience** with USA-based clients (2018-2019)  
+✅ Developed **BI solutions** for public policy decision-making (Power BI, Python)  
+✅ Led **COVID-19 vaccination information system** for Bogotá (2020-2021)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -90,28 +85,34 @@
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 Focus Areas
 
-- 🔭 I’m currently working on **SENA**
-- 💡 Exploring **.NET Core**, **Angular**, and **cloud integrations**
-- ⚙️ Building scalable and maintainable architectures
+- 🏗️ **Technical Leadership:** Team coordination, architecture decisions, code review
+- 🔧 **Legacy Modernization:** Rescuing and updating critical institutional systems
+- 📊 **Data Engineering:** Python/Jupyter, Power BI for epidemiological reporting
+- 🌐 **Remote Collaboration:** Distributed teams, international clients
 
 ---
 
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://dev.to/devMiguelGuevara" target="blank">
-    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/miguelguevaraavila" target="blank">
+  <a href="https://linkedin.com/in/miguel-angel-guevara-avila" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:miguel.guevara@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:miguelangel_guevara@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/devMiguelGuevara" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  📍 Villavicencio, Colombia | 🌐 Available for remote work<br/>
+  🗣️ Español (native) | English (intermediate)
 </p>
 
 ---
