@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" role="img" aria-labelledby="t d">
+  <title id="t">Stack principal</title>
+  <desc id="d">Lenguajes: PHP, Python, JavaScript, TypeScript, SQL, Java y C#. Frameworks: Laravel, Django, FastAPI, React, Angular y .NET</desc>
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ff5b22; }
+    .note { font: 400 11.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #6f6d66; }
+    .lang { font: 600 13.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #151513; }
+    .fw { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #45443f; }
+  </style>
+  <rect x="0.5" y="0.5" width="466" height="194" rx="12" fill="#f4f2ed" stroke="#c9b8ff"/>
+  <text x="25" y="35" class="title">Stack principal</text>
+  <text x="442" y="35" class="note" text-anchor="end">15+ años en producción</text>
+
+  <!-- Lenguajes: punto de color + nombre, en tres columnas -->
+  <g>
+    <circle cx="31" cy="66" r="5" fill="#2e46f0"/><text x="43" y="71" class="lang">PHP</text>
+    <circle cx="171" cy="66" r="5" fill="#ff5b22"/><text x="183" y="71" class="lang">Python</text>
+    <circle cx="311" cy="66" r="5" fill="#c9b8ff"/><text x="323" y="71" class="lang">JavaScript</text>
+
+    <circle cx="31" cy="94" r="5" fill="#d7f25c"/><text x="43" y="99" class="lang">TypeScript</text>
+    <circle cx="171" cy="94" r="5" fill="#ffd23f"/><text x="183" y="99" class="lang">SQL</text>
+    <circle cx="311" cy="94" r="5" fill="#151513"/><text x="323" y="99" class="lang">Java · C#</text>
+  </g>
+
+  <line x1="25" y1="120" x2="442" y2="120" stroke="#d9d5cb"/>
+  <text x="25" y="144" class="fw">Laravel · Django · FastAPI · Express</text>
+  <text x="25" y="166" class="fw">React · Angular · Next.js · .NET</text>
+</svg>
